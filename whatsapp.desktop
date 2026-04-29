@@ -1,0 +1,16 @@
+[Desktop Entry]
+Categories=Network;Chat;
+Comment=WhatsApp Desktop Wrapper
+Exec=/home/jeany/Documents/Projects/whatsapp-wrapper/node_modules/.bin/electron --enable-features=UseOzonePlatform --ozone-platform=wayland --app-id=whatsapp-wrapper /home/jeany/Documents/Projects/whatsapp-wrapper
+Icon=/home/jeany/Documents/Projects/whatsapp-wrapper/asset/whatsapp.svg
+Name=WhatsApp
+NoDisplay=false
+Path=
+PrefersNonDefaultGPU=false
+StartupNotify=true
+StartupWMClass=electron
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
