@@ -1,8 +1,3 @@
-simple whatsapp wrapper
+Simple WhatsApp Wrapper
 
-
-skibidi dop dop dop
-
-
-
-ich werde dich berühren goerltyboy
+install using bash install.sh
