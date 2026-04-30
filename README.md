@@ -1,3 +1,7 @@
-Simple WhatsApp Wrapper
+Simple Whatsapp-Wrapper
 
-install using bash install.sh
+Installation Guide:
+
+git clone https://github.com/jeanyyyyy/whatsapp-wrapper
+cd whatsapp-wrapper
+bash install.sh
