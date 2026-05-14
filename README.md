@@ -1,8 +1,12 @@
-simple whatsapp wrapper
+## Installation
 
+Requirements:
+* Node.js
+* npm
 
-skibidi dop dop dop
-
-
-
-ich werde dich berühren goerltyboy
+```bash
+git clone https://github.com/jeanyyyyy/whatsapp-wrapper
+cd whatsapp-wrapper
+bash install.sh
+```
+Done!

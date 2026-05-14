@@ -26,7 +26,7 @@ if (!gotTheLock) {
         mainWindow = new BrowserWindow({
             width: 800,
             height: 600,
-            icon: path.join(__dirname, 'assets/whatsapp.svg'),
+            icon: path.join(__dirname, 'asset/whatsapp.svg'),
             title: 'WhatsApp',
         });
 
