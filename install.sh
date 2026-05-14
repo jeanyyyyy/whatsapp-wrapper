@@ -10,7 +10,7 @@ DESKTOP_FILE="$DESKTOP_DIR/whatsapp.desktop"
 mkdir -p "$DESKTOP_DIR"
 
 sed "s|__APP_DIR__|$APP_DIR|g" \
-    "$APP_DIR/asset/whatsapp.desktop" \
+    "$APP_DIR/assets/whatsapp.desktop" \
     > "$DESKTOP_FILE"
 
 chmod +x "$DESKTOP_FILE"
